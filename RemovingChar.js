@@ -11,4 +11,5 @@ function charRemove(){
     console.log(str.split(ans).join(""))
     
     document.getElementById('result').innerHTML = str.split(ans).join("")
+    
 }
