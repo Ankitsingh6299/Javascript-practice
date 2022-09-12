@@ -7,5 +7,5 @@ function charChange(){
     var newStr=str.split(first).join("")
     newStr=newStr.split(last).join("")
     newStr = last+newStr+first;
-    console.log(newStr);
+    alert(newStr);
 }
